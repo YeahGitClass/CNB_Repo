@@ -1,1 +1,3 @@
-modifying in local repo
+class Wish{
+	modifying in local repo
+}
